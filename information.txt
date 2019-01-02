@@ -1,0 +1,6 @@
+1			1001		0
+ibad			1001		0
+Ahmed			1001		0
+ibadee			1001		0
+ib			1004		0
+ibadee			1011		0
